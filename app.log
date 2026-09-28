@@ -1,0 +1,37 @@
+2026-09-26 15:44:23,099 - INFO - Initialized user profile: Madhav sharma, BMI: 29.5, Category: Overweight
+2026-09-26 15:45:13,729 - INFO - Logged intake: apple (80 kcal) for user Madhav sharma
+2026-09-26 15:45:37,341 - INFO - Session closed for user Madhav sharma
+2026-09-26 17:58:27,061 - INFO - Initialized user profile: m, BMI: 30.9, Category: Overweight
+2026-09-26 18:00:00,362 - INFO - Session closed for user m
+2026-09-26 18:00:25,127 - INFO - Initialized user profile: k, BMI: 7.8, Category: Underweight
+2026-09-26 19:03:53,269 - INFO - Session closed for user k
+2026-09-26 19:05:23,150 - INFO - Initialized user profile: Raghav Sharma, BMI: 23.5, Category: Normal
+2026-09-26 19:06:47,204 - INFO - Logged activity: cricket (400 kcal) for user Raghav Sharma
+2026-09-26 19:08:26,539 - INFO - Logged intake: 7 roti (800 kcal) for user Raghav Sharma
+2026-09-26 19:08:43,831 - INFO - Logged intake: apple (80 kcal) for user Raghav Sharma
+2026-09-26 19:08:50,889 - INFO - Logged intake: milk (140 kcal) for user Raghav Sharma
+2026-09-26 19:08:55,938 - INFO - Session closed for user Raghav Sharma
+2026-09-26 19:10:58,159 - INFO - Initialized user profile: Sarita Sharma, BMI: 29.2, Category: Overweight
+2026-09-26 19:12:04,666 - INFO - Logged intake: dal (150 kcal) for user Sarita Sharma
+2026-09-26 19:12:30,152 - INFO - Logged intake: milk (140 kcal) for user Sarita Sharma
+2026-09-26 19:12:42,394 - INFO - Logged intake: rice (180 kcal) for user Sarita Sharma
+2026-09-26 19:12:52,332 - INFO - Logged intake: roti (85 kcal) for user Sarita Sharma
+2026-09-26 19:13:19,549 - INFO - Logged activity: walking (400 kcal) for user Sarita Sharma
+2026-09-26 19:13:21,452 - INFO - Session closed for user Sarita Sharma
+2026-09-26 20:30:23,326 - INFO - Initialized user profile: madhav, BMI: 29.3, Category: Overweight
+2026-09-26 20:31:22,674 - INFO - Logged intake: 4x 4 roti ' dal (24 kcal) for user madhav
+2026-09-26 20:31:46,441 - INFO - Logged intake: 4x roti (340 kcal) for user madhav
+2026-09-26 20:31:48,247 - INFO - Logged intake: 1x dal (150 kcal) for user madhav
+2026-09-26 20:31:52,243 - INFO - Session closed for user madhav
+2026-09-28 16:26:44,675 - INFO - Initialized user profile: madhav, BMI: 28.6, Category: Overweight
+2026-09-28 16:27:56,790 - INFO - Logged intake: 4x roti (340 kcal) for user madhav
+2026-09-28 16:28:02,158 - INFO - Logged intake: 1x dal (150 kcal) for user madhav
+2026-09-28 16:28:07,654 - INFO - Logged intake: 2x paneer (500 kcal) for user madhav
+2026-09-28 16:28:12,231 - INFO - Logged intake: 1x rice (180 kcal) for user madhav
+2026-09-28 16:28:26,311 - INFO - Session closed for user madhav
+2026-09-28 17:17:38,017 - INFO - Initialized user profile: mad, BMI: 28.1, Category: Overweight
+2026-09-28 20:47:52,345 - INFO - Initialized user profile: Madhav Sharma, BMI: 28.0, Category: Overweight
+2026-09-28 20:48:50,580 - INFO - Logged intake: 2x roti (170 kcal) for user Madhav Sharma
+2026-09-28 20:48:54,492 - INFO - Logged intake: 1x dal (150 kcal) for user Madhav Sharma
+2026-09-28 20:48:59,151 - INFO - Logged intake: 1x paneer (250 kcal) for user Madhav Sharma
+2026-09-28 20:49:03,852 - INFO - Logged intake: 1x rice (180 kcal) for user Madhav Sharma
